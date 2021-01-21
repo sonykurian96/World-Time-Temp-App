@@ -1,4 +1,4 @@
-# flutter_app
+# World Time and temperature app
 
 A new Flutter application.
 
