@@ -1,6 +1,8 @@
-# World Time and temperature app
+# World Time and Temperature App
 
 A new Flutter application.
+The app shows time and respective temperature of cities
+from all over the world.
 
 ## Getting Started
 
