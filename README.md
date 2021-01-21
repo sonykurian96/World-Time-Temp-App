@@ -4,15 +4,4 @@ A new Flutter application.
 The app shows time and respective temperature of cities
 from all over the world.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2021-01-21 at 16 56 13 (1)](https://user-images.githubusercontent.com/67534990/105345344-2a0f3480-5c0a-11eb-9d5a-de456eb72594.jpeg)
